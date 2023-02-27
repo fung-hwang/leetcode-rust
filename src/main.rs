@@ -1,5 +1,8 @@
 // 类型1
-mod s0001;
+// mod s0001;
+
+// 数组和矩阵
+mod jz03;
 
 pub struct Solution;
 
