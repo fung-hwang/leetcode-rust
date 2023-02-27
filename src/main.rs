@@ -3,6 +3,7 @@
 
 // 数组和矩阵
 mod jz03;
+mod jz04;
 
 pub struct Solution;
 
