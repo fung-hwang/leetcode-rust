@@ -5,6 +5,7 @@
 mod jz03;
 mod jz04;
 mod jz05;
+mod jz29;
 
 pub struct Solution;
 
