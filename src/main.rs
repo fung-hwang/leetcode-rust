@@ -8,6 +8,10 @@ mod jz05;
 mod jz29;
 mod jz50;
 
+// 数据结构（栈、队列、堆）
+mod jz09;
+mod jz30;
+
 pub struct Solution;
 
 fn main() {
