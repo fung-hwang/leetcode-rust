@@ -12,6 +12,7 @@ mod jz50;
 mod jz09;
 mod jz30;
 mod jz31;
+mod jz40;
 
 pub struct Solution;
 
