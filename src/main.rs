@@ -12,7 +12,9 @@ mod jz50;
 mod jz09;
 mod jz30;
 mod jz31;
-mod jz40;
+mod jz40; // 大顶堆(优先队列)
+mod jz59; // 大顶堆/单调队列
+mod s0739; // 单调栈
 
 pub struct Solution;
 
