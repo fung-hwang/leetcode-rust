@@ -50,11 +50,11 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_jz50() {
+    fn test_jz30() {
         let mut obj = MinStack::new();
         obj.push(1);
         obj.pop();
-        let ret_3: i32 = obj.top();
-        let ret_4: i32 = obj.min();
+        let _ret_3: i32 = obj.top();
+        let _ret_4: i32 = obj.min();
     }
 }

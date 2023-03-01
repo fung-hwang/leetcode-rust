@@ -11,6 +11,7 @@ mod jz50;
 // 数据结构（栈、队列、堆）
 mod jz09;
 mod jz30;
+mod jz31;
 
 pub struct Solution;
 

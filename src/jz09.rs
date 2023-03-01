@@ -50,10 +50,10 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_jz50() {
+    fn test_jz09() {
         //   Your CQueue object will be instantiated and called as such:
         let mut obj = CQueue::new();
         obj.append_tail(1);
-        let ret_2: i32 = obj.delete_head();
+        let _ret_2: i32 = obj.delete_head();
     }
 }
