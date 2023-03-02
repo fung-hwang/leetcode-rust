@@ -16,6 +16,11 @@ mod jz40; // 大顶堆(优先队列)
 mod jz59; // 大顶堆/单调队列
 mod s0739; // 单调栈
 
+// 双指针
+mod jz57_1;
+mod jz57_2;
+mod jz58_1;
+
 pub struct Solution;
 
 fn main() {
