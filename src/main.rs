@@ -20,6 +20,7 @@ mod s0739; // 单调栈
 mod jz57_1;
 mod jz57_2;
 mod jz58_1;
+mod jz58_2;
 
 fn main() {
     println!("leetcode rust");
