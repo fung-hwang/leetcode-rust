@@ -33,7 +33,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_jz31() {
+    fn test() {
         assert_eq!(Solution::get_least_numbers(vec![0, 1, 2, 1], 1), vec![0]);
         assert_eq!(Solution::get_least_numbers(vec![2, 1, 3, 1], 2), vec![1, 1]);
     }

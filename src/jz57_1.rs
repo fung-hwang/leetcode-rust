@@ -22,7 +22,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_jz57_1() {
+    fn test() {
         assert_eq!(
             Solution::two_sum(vec![10, 26, 30, 31, 47, 60], 40),
             vec![10, 30]

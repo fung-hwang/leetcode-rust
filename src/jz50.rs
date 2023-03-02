@@ -22,7 +22,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_jz50() {
+    fn test() {
         assert_eq!(Solution::first_uniq_char("abaccdeff".to_owned()), 'b');
         assert_eq!(Solution::first_uniq_char("".to_owned()), ' ');
     }

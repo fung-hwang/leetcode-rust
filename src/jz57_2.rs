@@ -36,7 +36,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_jz57_2() {
+    fn test() {
         assert_eq!(
             Solution::find_continuous_sequence(9),
             vec![vec![2, 3, 4], vec![4, 5]]

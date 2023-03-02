@@ -27,7 +27,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_jz57_2() {
+    fn test() {
         assert_eq!(
             Solution::reverse_left_words("abcXYZdef".to_owned(), 3),
             "XYZdefabc".to_owned()

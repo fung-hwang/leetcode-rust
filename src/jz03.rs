@@ -25,7 +25,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_jz03() {
+    fn test() {
         assert_eq!(Solution::find_repeat_number(vec![2, 3, 1, 0, 2, 5, 3]), 2);
         assert_eq!(Solution::find_repeat_number(vec![3, 4, 2, 1, 1, 0]), 1);
     }

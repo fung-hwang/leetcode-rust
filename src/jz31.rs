@@ -26,7 +26,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_jz31() {
+    fn test() {
         assert_eq!(
             Solution::validate_stack_sequences(vec![1, 2, 3, 4, 5], vec![4, 5, 3, 2, 1]),
             true

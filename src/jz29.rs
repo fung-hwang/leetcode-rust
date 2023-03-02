@@ -44,7 +44,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_jz29() {
+    fn test() {
         let matrix = vec![vec![1, 2, 3], vec![4, 5, 6], vec![7, 8, 9]];
         assert_eq!(
             Solution::spiral_order(matrix),

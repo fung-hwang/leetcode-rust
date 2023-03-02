@@ -25,7 +25,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_s0739() {
+    fn test() {
         assert_eq!(
             Solution::daily_temperatures(vec![73, 74, 75, 71, 69, 72, 76, 73]),
             vec![1, 1, 4, 2, 1, 1, 0, 0]

@@ -50,7 +50,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_jz30() {
+    fn test() {
         let mut obj = MinStack::new();
         obj.push(1);
         obj.pop();

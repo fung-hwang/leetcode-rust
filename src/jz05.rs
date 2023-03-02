@@ -24,7 +24,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_jz05() {
+    fn test() {
         assert_eq!(
             Solution::replace_space("We are happy.".to_owned()),
             "We%20are%20happy.".to_owned()

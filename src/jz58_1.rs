@@ -24,7 +24,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_jz57_2() {
+    fn test() {
         assert_eq!(
             Solution::reverse_words("the sky is blue".to_owned()),
             "blue is sky the".to_owned()

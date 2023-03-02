@@ -44,7 +44,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn test_jz04() {
+    fn test() {
         let m = vec![
             vec![1, 4, 7, 11, 15],
             vec![2, 5, 8, 12, 19],
