@@ -22,6 +22,9 @@ mod jz57_2;
 mod jz58_1;
 mod jz58_2;
 
+// 贪心
+mod jz14;
+
 fn main() {
     println!("leetcode rust");
 }
