@@ -1,5 +1,6 @@
-use crate::Solution;
 use std::collections::VecDeque;
+
+struct Solution;
 
 impl Solution {
     pub fn find_continuous_sequence(target: i32) -> Vec<Vec<i32>> {

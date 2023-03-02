@@ -1,4 +1,4 @@
-use crate::Solution;
+struct Solution;
 
 impl Solution {
     // 基本思路：通过有序关系，每次排除一行或一列元素

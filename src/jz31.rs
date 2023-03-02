@@ -1,4 +1,4 @@
-use crate::Solution;
+struct Solution;
 
 impl Solution {
     // 模拟栈的操作过程

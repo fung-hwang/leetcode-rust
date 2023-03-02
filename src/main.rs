@@ -21,8 +21,6 @@ mod jz57_1;
 mod jz57_2;
 mod jz58_1;
 
-pub struct Solution;
-
 fn main() {
     println!("leetcode rust");
 }

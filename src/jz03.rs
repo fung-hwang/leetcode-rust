@@ -1,4 +1,4 @@
-use crate::Solution;
+struct Solution;
 
 impl Solution {
     // 基本思路是将数字交换到对应的下标处，即将 i 放到 nums[i] 处

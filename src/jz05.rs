@@ -1,4 +1,4 @@
-use crate::Solution;
+struct Solution;
 
 impl Solution {
     // Rust处理字符串用 Vec<char> 会好一些，

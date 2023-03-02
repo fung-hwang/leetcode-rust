@@ -1,4 +1,4 @@
-pub struct Solution;
+struct Solution;
 
 impl Solution {
     // 参考解法（可能是剑指offer的本意，但不符合leetcode的题目要求）：

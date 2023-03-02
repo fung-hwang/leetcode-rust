@@ -1,5 +1,6 @@
-use crate::Solution;
 use std::collections::BinaryHeap;
+
+struct Solution;
 
 impl Solution {
     // BinaryHeap: A priority queue implemented with a binary heap. This will be a max-heap.

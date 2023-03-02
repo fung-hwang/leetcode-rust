@@ -1,4 +1,4 @@
-use crate::Solution;
+struct Solution;
 // use std::collections::BTreeSet;
 use std::collections::VecDeque;
 
