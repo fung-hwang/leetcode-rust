@@ -27,6 +27,7 @@ mod jz14;
 mod jz63;
 mod s0435;
 mod s0445;
+mod s0452;
 mod s0605;
 
 fn main() {
