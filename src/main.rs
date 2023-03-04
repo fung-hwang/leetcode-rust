@@ -29,6 +29,7 @@ mod s0435;
 mod s0445;
 mod s0452;
 mod s0605;
+mod s0763;
 
 fn main() {
     println!("leetcode rust");
