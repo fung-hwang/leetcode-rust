@@ -22,6 +22,7 @@ mod jz57_1;
 mod jz57_2;
 mod jz58_1;
 mod jz58_2;
+mod s0081;
 
 // 贪心
 mod jz14;
