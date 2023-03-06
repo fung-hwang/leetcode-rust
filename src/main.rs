@@ -1,6 +1,3 @@
-// 类型1
-// mod s0001;
-
 // 数组和矩阵
 mod jz03;
 mod jz04;
@@ -17,12 +14,10 @@ mod jz59; // 大顶堆/单调队列
 mod s0739; // 单调栈
 
 // 双指针
-mod jz11;
 mod jz57_1;
 mod jz57_2;
 mod jz58_1;
 mod jz58_2;
-mod s0081;
 
 // 贪心
 mod jz14;
@@ -35,6 +30,8 @@ mod s0605;
 mod s0763;
 
 // 二分查找
+mod jz11;
+mod s0081;
 
 fn main() {
     println!("leetcode rust");
