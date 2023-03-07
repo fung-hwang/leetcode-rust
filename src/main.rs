@@ -35,6 +35,9 @@ mod jz53_1;
 mod s0081;
 mod s0540;
 
+// 分治
+mod jz16;
+
 fn main() {
     println!("leetcode rust");
 }
