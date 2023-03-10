@@ -41,6 +41,7 @@ mod s0241;
 
 // 搜索
 mod jz12;
+mod jz13;
 mod s0695;
 
 fn main() {
