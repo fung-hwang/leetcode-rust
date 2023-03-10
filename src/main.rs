@@ -39,6 +39,9 @@ mod s0540;
 mod jz16;
 mod s0241;
 
+// 搜索
+mod jz12;
+
 fn main() {
     println!("leetcode rust");
 }
