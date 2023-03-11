@@ -43,6 +43,7 @@ mod s0241;
 mod jz12;
 mod jz13;
 mod jz38;
+mod s0547;
 mod s0695;
 
 fn main() {
