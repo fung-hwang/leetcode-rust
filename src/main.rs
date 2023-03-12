@@ -39,10 +39,11 @@ mod s0540;
 mod jz16;
 mod s0241;
 
-// 搜索
+// 搜索(dfs)
 mod jz12;
 mod jz13;
 mod jz38;
+mod s0051;
 mod s0547;
 mod s0695;
 
