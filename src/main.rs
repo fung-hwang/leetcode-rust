@@ -39,7 +39,7 @@ mod s0540;
 mod jz16;
 mod s0241;
 
-// 搜索(dfs)
+// 搜索
 mod jz12;
 mod jz13;
 mod jz38;
@@ -49,6 +49,9 @@ mod s0130;
 mod s0547;
 mod s0695;
 mod s0934;
+
+// 排序
+mod jz21;
 
 fn main() {
     println!("leetcode rust");
