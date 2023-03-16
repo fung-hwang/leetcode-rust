@@ -1,6 +1,7 @@
 struct Solution;
 
 impl Solution {
+    // partition的思想
     pub fn exchange(mut nums: Vec<i32>) -> Vec<i32> {
         if nums.len() == 0 {
             return nums;

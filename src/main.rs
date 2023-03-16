@@ -52,6 +52,7 @@ mod s0934;
 
 // 排序
 mod jz21;
+mod jz45;
 
 fn main() {
     println!("leetcode rust");
