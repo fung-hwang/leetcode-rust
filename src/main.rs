@@ -48,6 +48,7 @@ mod s0547;
 mod s0695;
 
 // 搜索(bfs)
+mod s0126;
 mod s0934;
 
 fn main() {
