@@ -53,6 +53,7 @@ mod s0934;
 // 排序
 mod jz21;
 mod jz45;
+mod jz51; // merge
 mod s0215; // partition
 
 fn main() {
