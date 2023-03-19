@@ -61,6 +61,7 @@ mod s0215; // partition
 mod jz10_1;
 mod jz10_2;
 mod jz42;
+mod jz47;
 
 fn main() {
     println!("leetcode rust");
