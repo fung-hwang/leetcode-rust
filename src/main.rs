@@ -54,8 +54,11 @@ mod s0934;
 mod jz21;
 mod jz45;
 mod jz51; // merge
-mod s0075;
+mod s0075; // partition
 mod s0215; // partition
+
+// 动态规划
+mod jz10_1;
 
 fn main() {
     println!("leetcode rust");
