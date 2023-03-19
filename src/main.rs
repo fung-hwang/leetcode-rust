@@ -59,6 +59,7 @@ mod s0215; // partition
 
 // 动态规划
 mod jz10_1;
+mod jz10_2;
 
 fn main() {
     println!("leetcode rust");
