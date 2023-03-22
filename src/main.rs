@@ -69,6 +69,7 @@ mod jz66;
 mod s0091;
 mod s0198;
 mod s0221;
+mod s0300;
 mod s0413;
 
 fn main() {
