@@ -71,6 +71,9 @@ mod s0198;
 mod s0221;
 mod s0300;
 mod s0413;
+mod s0650;
+// mod s0474;   // 01背包 变体
+// mod s0322    // 完全背包
 
 fn main() {
     println!("leetcode rust");
