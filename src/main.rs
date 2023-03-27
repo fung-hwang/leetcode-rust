@@ -75,7 +75,8 @@ mod s0413;
 // mod s0474;   // 01背包变体
 // mod s0322    // 完全背包
 // mod s0010    // 简单正则匹配（完全背包变体）
-mod s0650; // 股票（k次买卖）
+mod s0309;
+mod s0650; // 股票（k次交易）
 
 fn main() {
     println!("leetcode rust");
