@@ -67,13 +67,15 @@ mod jz49;
 mod jz60;
 mod jz66;
 mod s0091;
+mod s0188;
 mod s0198;
 mod s0221;
 mod s0300;
 mod s0413;
-mod s0650;
-// mod s0474;   // 01背包 变体
+// mod s0474;   // 01背包变体
 // mod s0322    // 完全背包
+// mod s0010    // 简单正则匹配（完全背包变体）
+mod s0650; // 股票（k次买卖）
 
 fn main() {
     println!("leetcode rust");
