@@ -81,6 +81,7 @@ mod s0714;
 
 // 链表
 mod jz06;
+mod jz18;
 
 fn main() {
     println!("leetcode rust");
