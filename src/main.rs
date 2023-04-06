@@ -79,6 +79,9 @@ mod s0309; // 股票（多状态）
 mod s0650; // 股票（k次交易）
 mod s0714;
 
+// 链表
+mod jz06;
+
 fn main() {
     println!("leetcode rust");
 }
