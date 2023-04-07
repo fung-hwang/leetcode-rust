@@ -85,6 +85,7 @@ mod jz18;
 mod jz22;
 mod jz24;
 mod jz25;
+mod s0024;
 
 fn main() {
     println!("leetcode rust");
